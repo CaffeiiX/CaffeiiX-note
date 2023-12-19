@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "a39ad2bedae1570f",
+    "type": "split",
+    "children": [
+      {
+        "id": "005d7477a4f7aaaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26ef618499850ae4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df59895c022796bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "99fa9f371bdffc13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c172e777a8319d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f6eeb946c259aa2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a55d857411fcd39e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "right": {
+    "id": "3dbe3ce38d9b223d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccd42214ba6bfc7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9d8543dc9538c19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "367bf8f6699506e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "562fda19d9a6fa22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d1d8fb260c6b1a91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "26ef618499850ae4",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-20 00.10.29.excalidraw.md",
+    "assets/image/深度理解计算机/遍历过程.png",
+    "assets/image/深度理解计算机/不同迭代的速度.png",
+    "assets/image/深度理解计算机/程序头部表.png",
+    "assets/image/深度理解计算机/处理器封装.png",
+    "assets/image/深度理解计算机/存储格式.png",
+    "assets/image/深度理解计算机/存储器山.png",
+    "assets/image/深度理解计算机/动态链接.png",
+    "assets/image/深度理解计算机/高速缓存.png",
+    "assets/image/深度理解计算机/静态链接.png",
+    "assets/image/深度理解计算机/链接过程.png",
+    "assets/image/博客",
+    "assets/image/深度理解计算机",
+    "学习/编程/基础",
+    "assets/image/图形学",
+    "assets/image/Pasted image 20230424222615.png.md",
+    "学习/编程/基础/深度理解计算机系统/笔记/缓存.md",
+    "学习/编程/基础/深度理解计算机系统/作业/CacheLab.md",
+    "学习/编程/基础/深度理解计算机系统/作业/attackLab.md",
+    "学习/深度理解计算机系统/作业/Lab/CacheLab/cachelab.pdf",
+    "学习/深度理解计算机系统/作业/Lab/CacheLab/cachelab_【彩云小译】.pdf",
+    "学习/深度理解计算机系统/作业/Lab/CacheLab/waside-blocking.pdf",
+    "学习/深度理解计算机系统/作业/Lab/CacheLab/waside-blocking彩云小译.pdf",
+    "学习/编程/前端/博客/洋葱模式.md",
+    "学习/编程/前端/博客/构建你自己的React.md",
+    "学习/编程/前端/博客/babel-plugin.md",
+    "学习/编程/前端/博客/JavaScript 代码内存管理.md",
+    "学习/编程/前端/博客/mini-webpack.md",
+    "学习/编程/前端/博客/RxJs 防腐层实践.md",
+    "计划/2023/2023 书单.md",
+    "计划/2023/每日.md",
+    "学习/编程/前端/typescript/类型体操.md",
+    "Excalidraw/资源兼容内外网展示方案.md",
+    "Excalidraw/nest各层说明.md",
+    "Excalidraw/Drawing 2023-03-24 15.58.37.excalidraw.md",
+    "学习/编程/Nest/依赖注入.md",
+    "学习/编程/Nest/新特性.md",
+    "学习/编程/Nest/基本功能.md",
+    "计划/前端学习.md",
+    "计划/2023 书单.md",
+    "计划/2023 学习计划.md",
+    "计划/2023 影视剧清单.md",
+    "学习/深度理解计算机系统/作业/Lab/CacheLab",
+    "学习/编程/基础/深度理解计算机系统/笔记/链接.md",
+    "学习/编程/基础/深度理解计算机系统/笔记/系统级IO.md",
+    "学习/编程/基础/深度理解计算机系统/作业/Lab",
+    "静态资源/img/未命名.canvas",
+    "静态资源/img/未命名 1.canvas"
+  ]
+}
