@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "005d7477a4f7aaaf",
+        "id": "b329bddde22a0aab",
         "type": "tabs",
         "children": [
           {
-            "id": "26ef618499850ae4",
+            "id": "0a50c8abfd015960",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,19 +139,30 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "26ef618499850ae4",
+  "active": "0a50c8abfd015960",
   "lastOpenFiles": [
+    "静态资源/img/Pasted image 20230304165018.png",
+    "静态资源/img/Pasted image 20230304165041.png",
+    "静态资源/img/Pasted image 20230426225405.png",
+    "静态资源/img/e85e3441a0f59a083b77432529829fc.jpg",
+    "静态资源/img/d57ff6c127dd3caf5b536b5132444bb.jpg",
+    "静态资源/img/8405145493996aa82d23d9ec01939f7.jpg",
+    "静态资源/img/79ea24ba5f2c978b4673bd41f23717d.jpg",
+    "静态资源/img/dbac0c5675b0ca90c269dee5e180ff7.jpg",
+    "工作/前端本地调试远程测试地址.md",
+    "工作/幸运抽奖规则梳理.md",
+    "静态资源/img/未命名.canvas",
+    "静态资源/img/未命名 1.canvas",
+    "assets/image/图形学/光线衰减.png",
+    "assets/image/图形学/存在倾角的物体情况.png",
+    "assets/image/图形学/漫反射模型.png",
+    "学习/编程/图形学/着色.md",
+    "学习/编程/图形学/光栅化.md",
+    "学习/编程/图形学/观测变换.md",
+    "学习/编程/图形学/变换.md",
+    "Pasted image 20230614230404.png.md",
+    "学习/编程/图形学",
     "Excalidraw/Drawing 2023-12-20 00.10.29.excalidraw.md",
-    "assets/image/深度理解计算机/遍历过程.png",
-    "assets/image/深度理解计算机/不同迭代的速度.png",
-    "assets/image/深度理解计算机/程序头部表.png",
-    "assets/image/深度理解计算机/处理器封装.png",
-    "assets/image/深度理解计算机/存储格式.png",
-    "assets/image/深度理解计算机/存储器山.png",
-    "assets/image/深度理解计算机/动态链接.png",
-    "assets/image/深度理解计算机/高速缓存.png",
-    "assets/image/深度理解计算机/静态链接.png",
-    "assets/image/深度理解计算机/链接过程.png",
     "assets/image/博客",
     "assets/image/深度理解计算机",
     "学习/编程/基础",
@@ -177,17 +188,6 @@
     "Excalidraw/nest各层说明.md",
     "Excalidraw/Drawing 2023-03-24 15.58.37.excalidraw.md",
     "学习/编程/Nest/依赖注入.md",
-    "学习/编程/Nest/新特性.md",
-    "学习/编程/Nest/基本功能.md",
-    "计划/前端学习.md",
-    "计划/2023 书单.md",
-    "计划/2023 学习计划.md",
-    "计划/2023 影视剧清单.md",
-    "学习/深度理解计算机系统/作业/Lab/CacheLab",
-    "学习/编程/基础/深度理解计算机系统/笔记/链接.md",
-    "学习/编程/基础/深度理解计算机系统/笔记/系统级IO.md",
-    "学习/编程/基础/深度理解计算机系统/作业/Lab",
-    "静态资源/img/未命名.canvas",
-    "静态资源/img/未命名 1.canvas"
+    "学习/深度理解计算机系统/作业/Lab/CacheLab"
   ]
 }
