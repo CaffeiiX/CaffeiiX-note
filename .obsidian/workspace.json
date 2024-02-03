@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b329bddde22a0aab",
+        "id": "ae43d06700ab25b2",
         "type": "tabs",
         "children": [
           {
-            "id": "0a50c8abfd015960",
+            "id": "1adf1e846a5398f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "学习/编程/图形学/几何.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "3dbe3ce38d9b223d",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "学习/编程/图形学/几何.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "学习/编程/图形学/几何.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,48 +125,58 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "学习/编程/图形学/几何.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "card-board:CardBoard": false
     }
   },
-  "active": "0a50c8abfd015960",
+  "active": "1adf1e846a5398f3",
   "lastOpenFiles": [
+    "Pasted image 20240204002212.png",
+    "Pasted image 20240204001249.png",
+    "Pasted image 20240204001131.png",
+    "Pasted image 20240204000917.png",
+    "Pasted image 20240204000823.png",
+    "Pasted image 20240204000335.png",
+    "学习/编程/图形学/纹理.md",
+    "学习/编程/图形学/几何.md",
+    "学习/编程/图形学/变换.md",
+    "学习/编程/图形学/光栅化.md",
+    "学习/编程/图形学/着色.md",
+    "学习/编程/图形学/观测变换.md",
+    "计划/2023/2023 影视剧清单.md",
+    "Excalidraw/Drawing 2024-02-03 00.33.16.excalidraw.md",
+    "计划/2023/2023 书单.md",
+    "计划/2023/2023 学习计划.md",
+    "计划/2023/每日.md",
     "静态资源/img/Pasted image 20230304165018.png",
     "静态资源/img/Pasted image 20230304165041.png",
     "静态资源/img/Pasted image 20230426225405.png",
     "静态资源/img/e85e3441a0f59a083b77432529829fc.jpg",
     "静态资源/img/d57ff6c127dd3caf5b536b5132444bb.jpg",
-    "静态资源/img/8405145493996aa82d23d9ec01939f7.jpg",
-    "静态资源/img/79ea24ba5f2c978b4673bd41f23717d.jpg",
-    "静态资源/img/dbac0c5675b0ca90c269dee5e180ff7.jpg",
     "工作/前端本地调试远程测试地址.md",
     "工作/幸运抽奖规则梳理.md",
     "静态资源/img/未命名.canvas",
     "静态资源/img/未命名 1.canvas",
-    "assets/image/图形学/光线衰减.png",
-    "assets/image/图形学/存在倾角的物体情况.png",
-    "assets/image/图形学/漫反射模型.png",
-    "学习/编程/图形学/着色.md",
-    "学习/编程/图形学/光栅化.md",
-    "学习/编程/图形学/观测变换.md",
-    "学习/编程/图形学/变换.md",
     "Pasted image 20230614230404.png.md",
     "学习/编程/图形学",
     "Excalidraw/Drawing 2023-12-20 00.10.29.excalidraw.md",
@@ -181,13 +198,6 @@
     "学习/编程/前端/博客/JavaScript 代码内存管理.md",
     "学习/编程/前端/博客/mini-webpack.md",
     "学习/编程/前端/博客/RxJs 防腐层实践.md",
-    "计划/2023/2023 书单.md",
-    "计划/2023/每日.md",
-    "学习/编程/前端/typescript/类型体操.md",
-    "Excalidraw/资源兼容内外网展示方案.md",
-    "Excalidraw/nest各层说明.md",
-    "Excalidraw/Drawing 2023-03-24 15.58.37.excalidraw.md",
-    "学习/编程/Nest/依赖注入.md",
     "学习/深度理解计算机系统/作业/Lab/CacheLab"
   ]
 }
